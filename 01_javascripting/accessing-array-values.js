@@ -1,3 +1,3 @@
-// stupid comment7
+// stupid comment8
 var food=['apple', 'pizza', 'pear'];
 console.log(food[1]);
